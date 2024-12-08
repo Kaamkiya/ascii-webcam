@@ -1,0 +1,14 @@
+= ascii-webcam
+:toc: preamble
+
+View your webcam feed as ASCII art!
+
+== Running
+
+Clone the repo and `cd` into it.
+
+Start any fileserver to run it.
+
+== License
+
+Unlicense.

@@ -1,0 +1,12 @@
+html, body {
+  margin: 0;
+  padding: 0;
+  background-color: #000;
+  color: #fff;
+  font-family: monospace;
+  font-size: 5pt;
+  line-height: 3.5pt;
+}
+canvas {
+  display: block;
+}
