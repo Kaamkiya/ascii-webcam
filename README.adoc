@@ -4,7 +4,7 @@ Live demo: https://kaamkiya.github.io/ascii-webcam
 
 View your webcam as ASCII art!
 
-https://img.shields.io/github/license/Kaamkiya/ascii-webcam[License: Unlicense]
+image::https://img.shields.io/github/license/Kaamkiya/ascii-webcam[License: Unlicense]
 
 == 🛡️ License
 
