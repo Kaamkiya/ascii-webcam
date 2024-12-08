@@ -1,14 +1,11 @@
 = ascii-webcam
-:toc: preamble
 
-View your webcam feed as ASCII art!
+Live demo: https://kaamkiya.github.io/ascii-webcam
 
-== Running
+View your webcam as ASCII art!
 
-Clone the repo and `cd` into it.
+https://img.shields.io/github/license/Kaamkiya/ascii-webcam[License: Unlicense]
 
-Start any fileserver to run it.
+== 🛡️ License
 
-== License
-
-Unlicense.
+This project is licensed under the Unlicense. See https://unlicense.org for more info.
